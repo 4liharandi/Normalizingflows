@@ -20,4 +20,4 @@ Samping:
 python3 main.py --model c_glow_v3 --dataset randommask --n_block 4 --n_flow 2 2 2 2 --do_lu --sample
 ```
 
-Further training sets must be defined in the code in order to avoid error messages.
+Further training sets must be defined in the code in order to avoid error messages. Samples generated from the models can be viewed [here](https://github.com/leonardosalsi/Normalizingflows/tree/main/Samples).
