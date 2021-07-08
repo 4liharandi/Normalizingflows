@@ -6,7 +6,7 @@ Example usage for running the experiment 'Random Mask'
 
 ## CINN
 ```
-python train.py --problem sr --ppar 8 --snr 10 --batchsize 256
+python train.py --problem randommask --ppar 0.2 --snr 10 --batchsize 256
 ```
 *(Samples are generated every five epochs)*
 
