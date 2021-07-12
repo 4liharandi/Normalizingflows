@@ -15,7 +15,7 @@ Training:
 ```
 python3 main.py --model c_glow_v3 --dataset randommask --n_block 4 --n_flow 2 2 2 2 --do_lu --reg_factor 0.01 --grad_checkpoint
 ```
-Samping:
+Sampling:
 ```
 python3 main.py --model c_glow_v3 --dataset randommask --n_block 4 --n_flow 2 2 2 2 --do_lu --sample
 ```
